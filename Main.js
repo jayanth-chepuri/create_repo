@@ -8,4 +8,6 @@ console.log("The difference of " + a + " and " + b + " is: " + difference);
 console.log("The product of " + a + " and " + b + " is: " + product);
 console.log("The quotient of " + a + " and " + b + " is: " + quotient);
 console.log("The sum of " + a + " and " + b + " is: " + sum);
+console.log("The value of a is: " + a);
+console.log("The value of b is: " + b); 
 console.log("Hello, World!");
